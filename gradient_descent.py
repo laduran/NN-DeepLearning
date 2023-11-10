@@ -8,3 +8,5 @@
 #   // α is the learning rate
 #   // J(w) is the cost function  
 # }
+
+import numpy as np
